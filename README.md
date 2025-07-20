@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Game Development<br>Ask me about React.<br> Creating 3D Assets of games.
+I'm currently learning Game Development<br>Ask me about React.<br> Creating 3D Assets for games.
 
 
 ## 🌐 Socials:
